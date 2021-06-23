@@ -11,6 +11,9 @@
     text-decoration: overline;
     font-size: xx-large;
 }
+.jumbotron {
+}
+
 
 
 
@@ -38,7 +41,7 @@ body header {
 }
 .jumbotron {
     background-color: #000000;
-    color: #CA0003;
+    color: #000000;
 }
 .container-fluid .row .col-sm-6.col-md-4.col-lg-3 {
     color: #CA0003;

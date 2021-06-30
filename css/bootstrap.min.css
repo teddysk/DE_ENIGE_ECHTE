@@ -7,6 +7,34 @@
 .h5dailytunes {
     text-align: center;
 }
+.IMG {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: none;
+    width: 0px;
+}
+.image {
+    width: 0px;
+    max-width: 134px;
+    max-height: 126px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
+    text-shadow: 0px -14px #7B0002;
+}
+.comingsoon {
+    text-shadow: 0px 0px #680001;
+    font-size: large;
+    opacity: 1;
+    font-style: italic;
+    text-decoration: overline;
+}
+
+
+.klok {
+}
+
+
 
 
 

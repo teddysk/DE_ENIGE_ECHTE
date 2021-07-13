@@ -41,6 +41,53 @@
     margin-left: auto;
     margin-right: auto;
 }
+.aboutus {
+    font-family: 'Anton', sans-serif;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+    font-size: xx-large;
+}
+.contact {
+    font-family: 'Anton', sans-serif;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+    font-size: xx-large;
+}
+.design {
+    font-family: 'Anton', sans-serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+}
+.gallery {
+    font-family: 'Anton', sans-serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+}
+.services {
+    font-family: 'Anton', sans-serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+}
+.comingsoon {
+    font-family: 'Anton', sans-serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 2px 0px #770001;
+}
+.theplacefor {
+    font-family: 'Anton', sans-serif;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
 
 
 

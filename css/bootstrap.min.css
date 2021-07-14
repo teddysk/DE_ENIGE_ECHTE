@@ -46,6 +46,7 @@
     text-decoration: underline;
     text-shadow: 2px 0px #770001;
     font-size: xx-large;
+    color: #000000;
 }
 .contact {
     font-family: 'Anton', sans-serif;
@@ -81,6 +82,36 @@
     font-family: 'Anton', sans-serif;
     font-size: x-large;
 }
+.container-fluid .row .col-12 {
+}
+.betweencol {
+    background-color: #D8D8D8;
+}
+.prototype1 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 2px;
+    padding-bottom: 11px;
+}
+.tshirt {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 127px;
+    padding-bottom: 14px;
+}
+.eventsfoto {
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 24px;
+}
+
+
+
+
+
+
 
 
 
